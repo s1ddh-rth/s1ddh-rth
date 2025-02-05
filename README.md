@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth Sharma
-- 👀 I’m actively expanding my expertise in Machine Learning & AI, with a strong technical foundation in React.js, Node.js, MongoDB, MySQL, Python, C++, C, JS, HTML, and CSS.
+- 👀 I’m actively expanding my expertise in Machine Learning, AI & Data engineering, with a strong technical foundation in React.js, Node.js, MongoDB, MySQL, Python, C++, C, JS, HTML, and CSS.
 - 🌱 I’m currently enhancing my technical skill set by studying AWS and Go lang, alongside driving forward a project focused on reinforcement learning with humanoid simulations.
 - 📫 You can reach me through my LinkedIn - https://www.linkedin.com/in/s1ddh9rth/
 
